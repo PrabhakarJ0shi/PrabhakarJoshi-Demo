@@ -1,3 +1,3 @@
 # PrabhakarJoshi-Demo
-This is my first Git Reposiory
+This is my first Git Reposiory.
 Author - Prabhakr Joshi
